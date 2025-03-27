@@ -32,6 +32,7 @@ export default function Header() {
                     : 'bg-transparent',
             )}
         >
+            <link rel="icon" href="/favicon.ico" />
             <div className="container mx-auto px-4 py-4">
                 <div className="flex items-center justify-between">
                     <motion.div
