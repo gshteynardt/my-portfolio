@@ -78,7 +78,7 @@ export default function AboutMe() {
                                             animate={{ opacity: 1, y: 0 }}
                                             transition={{
                                                 duration: 0.3,
-                                                delay: 5 + index * 0.2,
+                                                delay: index * 0.2,
                                             }}
                                             className="group flex items-center gap-2 px-4 py-2 bg-gray-900 border border-gray-800 rounded-md hover:border-cyan-500 transition-all duration-300"
                                         >

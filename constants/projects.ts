@@ -56,6 +56,17 @@ export const projects = [
     },
     {
         id: 4,
+        title: 'Pathfinding Visualizer',
+        type: 'pet',
+        description:
+            'A sleek and interactive pathfinding visualization tool. This application demonstrates how different pathfinding algorithms explore the grid and find the shortest path between two points.',
+        image: '/pathfinding.png',
+        tags: ['React', 'TypeScript', 'TailwindCSS', 'Storybook', 'Algorithms'],
+        github: 'https://github.com/gshteynardt/pathfinding',
+        demo: 'https://pathfinding-flax.vercel.app/',
+    },
+    {
+        id: 5,
         title: 'Vehicle Tracking and Monitoring System',
         type: 'work',
         description:
