@@ -1,6 +1,23 @@
 export const projects = [
     {
-        id: 1,
+        id: 6,
+        title: 'Windy',
+        type: 'work',
+        description:
+            'Windy.app is a professional weather app, created for water and wind sports and all outdoor activities.',
+        image: '/windy.png',
+        tags: [
+            'TypeScript',
+            'CSS',
+            'Webpack',
+            'Chartist.js',
+            'Data Visualization',
+            'Responsive Design',
+        ],
+        demo: 'https://windy.app/widgets',
+    },
+    {
+        id: 5,
         title: 'Yandex Tracker',
         type: 'work',
         description:
@@ -19,7 +36,7 @@ export const projects = [
         demo: 'https://yandex.cloud/en/services/tracker',
     },
     {
-        id: 2,
+        id: 4,
         title: 'Unistore',
         type: 'work',
         description:
@@ -50,12 +67,21 @@ export const projects = [
             'Automatically choose black or white text based on W3C contrast standards',
         ],
         image: '/generate-colors.png',
-        tags: ['React', 'Zustand', 'TypeScript', 'Jest', 'Storybook', 'SCSS', 'UX', 'Accessibility'],
+        tags: [
+            'React',
+            'Zustand',
+            'TypeScript',
+            'Jest',
+            'Storybook',
+            'SCSS',
+            'UX',
+            'Accessibility',
+        ],
         github: 'https://github.com/gshteynardt/color-generator',
         demo: 'https://gshteynardt.github.io/color-generator/',
     },
     {
-        id: 4,
+        id: 2,
         title: 'Pathfinding Visualizer',
         type: 'pet',
         description:
@@ -66,7 +92,7 @@ export const projects = [
         demo: 'https://pathfinding-flax.vercel.app/',
     },
     {
-        id: 5,
+        id: 1,
         title: 'Vehicle Tracking and Monitoring System',
         type: 'work',
         description:

@@ -1,6 +1,16 @@
 export const experiences = [
+        {
+        id: 5,
+        title: 'Frontend Engineer',
+        company: 'Windy',
+        period: 'Mar 2025 - Present',
+        description:
+            'Development and refactoring of modular weather widgets for displaying real-time weather conditions. These widgets can be easily integrated into third-party websites or web platforms via embeddable components.',
+        achievements: [],
+        type: 'work',
+    },
     {
-        id: 1,
+        id: 4,
         title: 'Frontend Engineer',
         company: 'Yandex',
         period: 'Dec 2022 - Jan 2025',
@@ -17,7 +27,7 @@ export const experiences = [
         type: 'work',
     },
     {
-        id: 2,
+        id: 3,
         title: 'Mentor',
         company: 'Yandex Practicum',
         period: 'Aug 2022 - Aug 2023',
@@ -31,7 +41,7 @@ export const experiences = [
         type: 'work',
     },
     {
-        id: 3,
+        id: 2,
         title: 'Frontend Engineer',
         company: 'Unlimint',
         period: 'Dec 2020 - Dec 2022',
@@ -46,7 +56,7 @@ export const experiences = [
         type: 'work',
     },
     {
-        id: 4,
+        id: 1,
         title: 'Head of IT Department',
         company: 'Research institute MosTransProject',
         period: 'Apr 2017 - Dec 2019 ',

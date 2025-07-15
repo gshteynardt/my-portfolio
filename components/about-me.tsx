@@ -54,7 +54,7 @@ export default function AboutMe() {
                                     />
                                 </div>
                                 <TerminalText
-                                    text="A Frontend engineer with 4+ years of experience"
+                                    text="A Frontend engineer with 5+ years of experience"
                                     className="text-xl text-blue-400 mb-4"
                                     delay={2000}
                                     isLast={false}
