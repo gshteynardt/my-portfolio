@@ -10,6 +10,7 @@ export const projects = [
       'EBNF',
       'Recursive Descent Parser',
     ],
+    github: 'https://github.com/gshteynardt/simple-relative-date-input',
     demo: 'https://gshteynardt.github.io/simple-relative-date-input/',
   },
   {
